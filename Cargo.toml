@@ -1,0 +1,9 @@
+[package]
+name = "wifi_watcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tokio       = { version = "1.47.1", features = ["full"] }   # runtime assíncrono
+online      = "4.0.2"    # verificação simples de internet[19]
+rodio       = "0.21.1"
