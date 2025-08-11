@@ -28,7 +28,7 @@ wifi_watcher/
 
 2. Clone and build the project:
    ```sh
-   git clone https://github.com/<your-username>/wifi_watcher.git
+   git clone https://github.com/mb-mb/wifi_watcher.git
    cd wifi_watcher
    cargo build --release
    ```
